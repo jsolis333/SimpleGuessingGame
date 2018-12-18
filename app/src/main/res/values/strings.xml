@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleGuessingGame</string>
+    <string name="Instructions_text">I am thinking of a number from 1 to 20.</string>
+    <string name="AskingUser_Text">Can you guess the number?</string>
+    <string name="Request_Text">Enter your guess here</string>
+    <string name="Button_Text">GUESS</string>
+</resources>
